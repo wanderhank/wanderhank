@@ -1,8 +1,8 @@
 Opa! Me chamo Wanderson Lopes, estudo Ciência da Computação na UFCG! Sou Engenheiro Civil nas noites escuras.
 <br>
-
 <br>
 Estou aprendendo
+<br>
 <br>
 <div style="display:flex; flex-wrap:nowrap;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" style="margin-right:10px;"/>
@@ -14,8 +14,8 @@ Estou aprendendo
 <br>
 <div style="display:flex; flex-wrap:nowrap;">
   <a href="https://github.com/wanderhank">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wanderhank&layout=compact&langs_count=7&theme=dracula" style="margin-right:10px;"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wanderhank&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" style="margin-left:10px;"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wanderhank&layout=compact&langs_count=7&theme=dracula" style="margin-right:10px;"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=wanderhank&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" style="margin-left:10px;"/>
   </a>
 </div>
 
