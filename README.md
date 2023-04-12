@@ -1,7 +1,7 @@
 Opa! Me chamo Wanderson Lopes, estudo Ciência da Computação na UFCG! Sou Engenheiro Civil nas noites escuras.
 <br>
 <br>
-Estou aprendendo
+Estou aprendendo:
 <br>
 <br>
 <div style="display:flex; flex-wrap:nowrap;">
