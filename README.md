@@ -10,14 +10,6 @@ Estou aprendendo:
   <img src="https://devkico.itexto.com.br/wp-content/uploads/2014/08/spring-boot-project-logo.png" width="40" height="40"/>
 </div>
 
-<br>
-<br>
-<div style="display:flex; flex-wrap:nowrap;">
-  <a href="https://github.com/wanderhank">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wanderhank&layout=compact&langs_count=7&theme=dracula" style="margin-right:10px;"/>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=wanderhank&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" style="margin-left:10px;"/>
-  </a>
-</div>
 
 
 
