@@ -8,7 +8,7 @@ Estou aprendendo:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" style="margin-right:10px;"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" width="40" height="40" style="margin-right:10px;"/>
   <img src="https://devkico.itexto.com.br/wp-content/uploads/2014/08/spring-boot-project-logo.png" width="40" height="40"/>
-  <img src="https://www.pngitem.com/pimgs/m/341-3412303_go-programming-language-logo-hd-png-download.png" width="40" height="40"/>
+  <img src="https://fingers-site-production.s3.eu-central-1.amazonaws.com/uploads/images/szLui8773HimqPgfZcnOSt1jcqsUYcJlnaHepZ50.jpg" width="40" height="40"/>
 </div>
 
 
