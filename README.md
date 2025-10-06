@@ -9,19 +9,14 @@ My journey in CS is driven by a curiosity for how things work and a passion for 
 
 I use these cards to track my coding progress and contributions:
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=wanderhank&show_icons=true&theme=vue"
-    alt="Wanderson's GitHub Stats"
-    width="48%"
-  />
-  
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=wanderhank&layout=compact&theme=vue"
-    alt="Top Languages"
-    width="48%"
-  />
-</p>
+<div align="center">
+  <a href="https://github.com/wanderhank">
+    <img src="https://github-readme-stats.vercel.app/api?username=wanderhank&show_icons=true&theme=vue&hide_border=true" alt="Wanderson's GitHub Stats" style="width: 49%; display: inline-block; vertical-align: top; margin: 0 0.5%;" />
+  </a>
+  <a href="https://github.com/wanderhank">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wanderhank&layout=compact&theme=vue&hide_border=true" alt="Top Languages" style="width: 49%; display: inline-block; vertical-align: top; margin: 0 0.5%;" />
+  </a>
+</div>
 ---
 
 ### 📫 Get in Touch
