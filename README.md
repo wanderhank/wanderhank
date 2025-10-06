@@ -7,12 +7,22 @@ I'm a Computer Science student at the **Universidade Federal de Campina Grande (
 
 I use these cards to track my coding progress and contributions:
 
+### 📈 GitHub Stats
+
 <div align="center">
   <a href="https://github.com/wanderhank">
-    <img src="https://github-readme-stats.vercel.app/api?username=wanderhank&show_icons=true&theme=vue&hide_border=true" alt="Wanderson Lopes' GitHub Stats" style="width: 49%; display: inline-block; vertical-align: top; margin: 0 0.5%;" />
+    <img 
+      src="https://github-readme-stats.vercel.app/api?username=wanderhank&show_icons=true&theme=vue&hide_border=true&card_height=200" 
+      alt="Wanderson Lopes' GitHub Stats" 
+      style="width: 49%; display: inline-block; vertical-align: top; margin: 0 0.5%;" 
+    />
   </a>
   <a href="https://github.com/wanderhank">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wanderhank&layout=compact&theme=vue&hide_border=true" alt="Most Used Languages" style="width: 49%; display: inline-block; vertical-align: top; margin: 0 0.5%;" />
+    <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=wanderhank&layout=compact&theme=vue&hide_border=true&card_height=200" 
+      alt="Most Used Languages" 
+      style="width: 49%; display: inline-block; vertical-align: top; margin: 0 0.5%;" 
+    />
   </a>
 </div>
 ---
