@@ -3,7 +3,7 @@
 I'm a Computer Science student at the **Universidade Federal de Campina Grande (UFCG)**.
 
 
-### 📈 GitHub Stats
+###  GitHub Stats
 
 <div align="center">
  
@@ -15,7 +15,7 @@ I'm a Computer Science student at the **Universidade Federal de Campina Grande (
     />
   </a>
 </div>
----
+
 
 ### 📫 Get in Touch
 
