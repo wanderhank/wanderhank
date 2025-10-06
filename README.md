@@ -1,8 +1,6 @@
-## 🌟 Hi! I'm Wanderson Lopes
+## Hi! I'm Wanderson Lopes
 
-👋 I'm a Computer Science student at the **Universidade Federal de Campina Grande (UFCG)**.
-
-My journey in CS is driven by a curiosity for how things work and a passion for building practical, efficient solutions. I'm always eager to learn and contribute to open-source projects!
+I'm a Computer Science student at the **Universidade Federal de Campina Grande (UFCG)**.
 
 
 ### 📈 GitHub Stats
